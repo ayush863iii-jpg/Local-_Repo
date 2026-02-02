@@ -1,1 +1,1 @@
-#just exlporing git functions
+# Just exlporing git functions
